@@ -12,4 +12,4 @@ wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/
 真ㆍ一键安装：   
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto  
 
-安装内核后自动重启，重启后自动安装BBR2和开启ECN。
+安装内核后自动重启，重启后自动安装BBR2和开启ECN
